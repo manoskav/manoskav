@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Manos..</h1>
 <h3 align="center">.. and this is my github</h3>
 
-- 📫 How to reach me **kavvousanos.em@ece.upatras.gr**
+- 📫 How to reach me **--**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
